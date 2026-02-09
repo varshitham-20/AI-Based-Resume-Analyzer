@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Insight Pro",
+  "description": "A high-performance AI-powered resume analyzer and ATS optimization tool using the Gemini API to evaluate resume compatibility, identify skill gaps, and provide actionable career improvements.",
+  "requestFramePermissions": []
+}
